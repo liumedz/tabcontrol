@@ -1,0 +1,17 @@
+{
+  "name": "tabcontrol",
+  "version": "0.0.1",
+  "homepage": "https://github.com/liumedz/tabcontrol",
+  "authors": [
+    "Liutauras Medziunas <liutauras.medziunas@gmail.com>"
+  ],
+  "description": "Tab Control",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
